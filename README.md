@@ -59,6 +59,6 @@ Use an S3 bucket to host a static website, although we are still using the same 
 11. Under services on the AWS console, search for Route53, under the hosted zone, pick your domain name and click on create record
 ![](./retry/12.13.create.png)
 ![](./retry/13createrecord.png)
-12 Access the website using your domain name.
+12. Access the website using your domain name.
 ![](./retry/14confirm%20with%20dns.png) 
 
